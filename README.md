@@ -47,7 +47,7 @@ To use this web scraping script, follow these steps:
 ## Usage
 
 1. Run the main web scraping script:
-  ```shell
+   ```shell
   python main.py ```
 
 2. The script will start scraping data from the specified website and save the results in an Excel (.xlsx) file in the output directory.
