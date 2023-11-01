@@ -32,23 +32,23 @@ To use this web scraping script, follow these steps:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/igormichetti/orulo-scraper.git ```
+   git clone https://github.com/igormichetti/orulo-scraper.git 
    
 2. Navigate to the project directory:
    ```shell
-   cd orulo-scraper ```
+   cd orulo-scraper 
 
 3. Install the required dependencies (see Dependencies below):
    ```shell
-   pip install -r requirements.txt ```
-
+   pip install -r requirements.txt
+   
 4. Modify the configuration settings in the locators.py file to specify the target website and scraping parameters. (See Configuration section below.)
 
 ## Usage
 
 1. Run the main web scraping script:
    ```shell
-  python main.py ```
+  python main.py
 
 2. The script will start scraping data from the specified website and save the results in an Excel (.xlsx) file in the output directory.
 
