@@ -57,9 +57,9 @@ To use this web scraping script, follow these steps:
 ## Configuration
 
 Before running the script, assert that you have an account in [https://www.orulo.com.br/](Órulo) configure the variable settings in the locators.py file, such as:
-_USER : The email used by the user to sign-in.
-_PASS : The user's password.
-BUILDINGS_URL: Here you can add one or a list of coordinates url depending on the region you want to scrape.
+- _USER : The email used by the user to sign-in.
+- _PASS : The user's password.
+- BUILDINGS_URL: Here you can add one or a list of coordinates url depending on the region you want to scrape.
 
 ## License
 
